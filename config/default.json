@@ -1,0 +1,7 @@
+{
+  "mongoURI2": "mongodb+srv://admin:admin@cluster0-1gmlu.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://admin:admin@devconnector-vi92x.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "2511aea8f569fae3128b",
+  "githubSecret": "5c51db5985dc907bd6b7f40f8e2b012dede8756b"
+}
